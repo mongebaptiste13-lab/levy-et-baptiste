@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef } from "react";
-import { ArrowLeft, ArrowRight, Code2, TrendingUp, Upload, Check, Loader2 } from "lucide-react";
+import { ArrowLeft, ArrowRight, Code2, TrendingUp, Upload, Check, Loader2, X } from "lucide-react";
 import Link from "next/link";
 import { SITE_CONFIG } from "@/lib/config";
 
